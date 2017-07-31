@@ -1,2 +1,3 @@
 # JavaScript-Library
 A simple collection of JavaScript files that are managed within a classroom environment and ever after ...
+At this time, our library contains just one file 'mcr_sf_0.1' with one method 'mcrSf.randomNum()'. This method has been tested for all listed examples of function calls and works aok. However, there might be a simplier way to validate the parameter.
